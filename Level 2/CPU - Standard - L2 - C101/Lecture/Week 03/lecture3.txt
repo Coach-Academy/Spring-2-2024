@@ -1,0 +1,9 @@
+record:  https://drive.google.com/file/d/1CEsEbL9gsb-91q7yNwEwWklRu8F8rVNa/view
+
+problem Andrysuha socks: https://codeforces.com/contest/780/submission/259055871
+
+problem Letter : https://codeforces.com/contest/43/submission/259056498
+
+problem CSUMQ : https://ideone.com/jJ9D3t
+
+problem Program : https://vjudge.net/solution/51124442/c53MOWiRXgwoXy1hT9Vy
