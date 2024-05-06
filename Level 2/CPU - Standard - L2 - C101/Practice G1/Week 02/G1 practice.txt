@@ -1,0 +1,13 @@
+record : https://drive.google.com/file/d/1MAEHaql4v7g6qZtL_znXqgbTfEKt3LQz/view
+
+problem B:https://vjudge.net/solution/50978238/XAk0zzXzAQ74LyadvFsN
+
+problem D:https://vjudge.net/solution/50978732/O0k9SPICoRiDyjcYzqFL
+
+problem E:https://vjudge.net/solution/50978900/SV1TyRa3FbpimJXfd6zR
+
+problem F:https://vjudge.net/solution/50978950/8araB3Lx5n7eXt0xAYLK
+
+problem G:https://vjudge.net/solution/50979140/TwO7AFdOr0SLBlOwat4e
+
+problem H:https://vjudge.net/solution/50979346/oeXmSDeb09hmToDcslX5
