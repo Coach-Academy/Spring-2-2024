@@ -1,0 +1,9 @@
+record: https://drive.google.com/file/d/19jssw-8o0G0LqZt0q4tph7iGNcHQEwoZ/view
+
+problem: https://vjudge.net/problem/HackerRank-array-left-rotation
+
+code:https://vjudge.net/solution/50878578/3diQ8elbzPD1ZYr3GBOV
+
+problem: https://vjudge.net/problem/SPOJ-STACKEZ
+
+code: https://vjudge.net/solution/50878465/ib0qPwAED1TC2Izg6bYq
