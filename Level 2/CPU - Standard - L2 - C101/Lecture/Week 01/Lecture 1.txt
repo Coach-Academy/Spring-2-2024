@@ -1,0 +1,32 @@
+Record: https://drive.google.com/file/d/1DgP216A-0CHA0KFII55AHcl1peI-f_Rn/view
+problem 1:
+
+- problem: https://vjudge.net/problem/SPOJ-HRECURS
+
+- sol: https://ideone.com/UTo9cU
+
+problem 2: 
+- problem: https://vjudge.net/problem/CodeForces-630A
+
+- sol: https://ideone.com/5uP2SY
+
+problem 3:
+- problem: https://vjudge.net/problem/CodeForces-486A
+
+- sol: https://ideone.com/GVJ8FF
+
+problem 4:
+- problem: https://vjudge.net/problem/AtCoder-abc043_a
+
+- sol: https://ideone.com/cESkHd
+
+problem 5:
+- problem: https://vjudge.net/problem/HackerRank-recursive-digit-sum
+
+- sol: https://ideone.com/pzG66f
+
+__int128: https://codeforces.com/blog/entry/75044
+
+harmonic series: https://stackoverflow.com/questions/25905118/finding-big-o-of-the-harmonic-series
+
+
