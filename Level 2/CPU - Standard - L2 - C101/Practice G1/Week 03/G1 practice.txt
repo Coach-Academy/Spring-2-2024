@@ -1,0 +1,11 @@
+record: https://drive.google.com/file/d/1uNkQnhGYOcC0-rc9URmJUdCKI-AIfA5Q/view
+
+STL:
+   problem o : https://vjudge.net/solution/51123497/qm99yAaH9PycZVcIJW9U
+   problem P : https://vjudge.net/solution/51123655/knQpC14FSka1XuQadRJV
+   problem R : https://vjudge.net/solution/51041928/I65azDgrljHkOYNr9L3U
+   problem S : https://vjudge.net/solution/51123904/W4NeO1OXpUptQSzITR18
+
+Static Range Queries:
+   problem J : https://vjudge.net/solution/51124143/ej8P23xkdybqfTEVtYdv
+   problem L : https://vjudge.net/solution/51124442/c53MOWiRXgwoXy1hT9Vy
