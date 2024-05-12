@@ -31,12 +31,16 @@ int dy[]{0,0,1,-1,1,-1,1,-1};
 const double pi=3.14159265350979323846,eps=1e-10;
 /*==============================================  KHALWSH  ==============================================*/
 int arr[N];
+#include<fstream>
 signed main() {
     khaled
+	ifstream f;
+    f.open("input.txt" , ios::in); // You can use ios::in instead of "rt"
+    ofstream fout("output.txt" , ios::out); // You can use ios::out instead of "wt"
 	int n;
-	cin>>n;
+	f>>n;
 	for(int i=0;i<n;i++){
-		cin>>arr[i];
+		f>>arr[i];
 	}
 	sort(arr , arr + n);
 	int left = 0 , right = 0;
@@ -47,5 +51,7 @@ signed main() {
 		res = max(res , right - left + 1);
 		right++;
 	}
-	cout<<n - res<<line;
+	fout<<n - res<<line;
+	f.close();
+	fout.close();
 }
