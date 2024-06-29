@@ -4,10 +4,13 @@ using namespace std;
 
 
 bool isBeautiful(int day, int k) {
-    string s = to_string(day);
-    reverse(s.begin(), s.end());
-    int revNum = stoi(s);
-    return abs(revNum - day) % k == 0;
+    int revDay = 0, tmpDay = day;
+    while (tmpDay) {
+        revDay *= 10;
+        revDay += (tmpDay % 10);
+        tmpDay /= 10;
+    }
+    return abs(revDay - day) % k == 0;
 }
 
 int main() {

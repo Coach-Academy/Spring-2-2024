@@ -16,12 +16,6 @@ int main() {
             mxPos = i;
         }
     }
-    int ans = 0;
-    while (mxPos > 0) {
-        swap(arr[mxPos], arr[mxPos - 1]);
-        mxPos--;
-        ans++;
-    }
     int mn = INT_MAX, mnPos = -1;
     for (int i = 0; i < n; ++i) {
         if (arr[i] <= mn) {
@@ -29,12 +23,8 @@ int main() {
             mnPos = i;
         }
     }
-    while (mnPos < n - 1) {
-        swap(arr[mnPos], arr[mnPos + 1]);
-        mnPos++;
-        ans++;
-    }
-    cout << ans << endl;
+
+    cout << mxPos + ((n - 1) - mnPos) - (mxPos > mnPos) << endl;
 
 
 }
