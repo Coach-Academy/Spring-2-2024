@@ -47,14 +47,14 @@ signed main() {
 				sum += v[i];
 				continue;
 			}else{
-				ll left = 0 , right = 2e9;
+				ll left = 0 , right = 2e12;
 				ll delta = 0;
 				// value :  v[i] * 100 <= k * sum + k * value
 				// v[i] * 100 - k * sum == k * value
 				// value = ((v[i] * 100) - k * sum  + k - 1) / k
 				while(left <= right){
 					ll mid = left + (right - left) / 2;
-					if(v[i] * 100 <= k * (sum + mid)){
+					if(v[i] * 100 <= k * (sum + mid + res)){
 						delta = mid;
 						right = mid - 1;
 					}else
